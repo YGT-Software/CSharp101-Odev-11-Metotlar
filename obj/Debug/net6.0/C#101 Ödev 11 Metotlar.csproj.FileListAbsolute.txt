@@ -1,0 +1,15 @@
+c:\Users\muaze\Desktop\C#101 Ödev 11 Metotlar\bin\Debug\net6.0\C#101 Ödev 11 Metotlar.exe
+c:\Users\muaze\Desktop\C#101 Ödev 11 Metotlar\bin\Debug\net6.0\C#101 Ödev 11 Metotlar.deps.json
+c:\Users\muaze\Desktop\C#101 Ödev 11 Metotlar\bin\Debug\net6.0\C#101 Ödev 11 Metotlar.runtimeconfig.json
+c:\Users\muaze\Desktop\C#101 Ödev 11 Metotlar\bin\Debug\net6.0\C#101 Ödev 11 Metotlar.dll
+c:\Users\muaze\Desktop\C#101 Ödev 11 Metotlar\bin\Debug\net6.0\C#101 Ödev 11 Metotlar.pdb
+c:\Users\muaze\Desktop\C#101 Ödev 11 Metotlar\obj\Debug\net6.0\C#101 Ödev 11 Metotlar.csproj.AssemblyReference.cache
+c:\Users\muaze\Desktop\C#101 Ödev 11 Metotlar\obj\Debug\net6.0\C#101 Ödev 11 Metotlar.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\muaze\Desktop\C#101 Ödev 11 Metotlar\obj\Debug\net6.0\C#101 Ödev 11 Metotlar.AssemblyInfoInputs.cache
+c:\Users\muaze\Desktop\C#101 Ödev 11 Metotlar\obj\Debug\net6.0\C#101 Ödev 11 Metotlar.AssemblyInfo.cs
+c:\Users\muaze\Desktop\C#101 Ödev 11 Metotlar\obj\Debug\net6.0\C#101 Ödev 11 Metotlar.csproj.CoreCompileInputs.cache
+c:\Users\muaze\Desktop\C#101 Ödev 11 Metotlar\obj\Debug\net6.0\C#101 Ödev 11 Metotlar.dll
+c:\Users\muaze\Desktop\C#101 Ödev 11 Metotlar\obj\Debug\net6.0\refint\C#101 Ödev 11 Metotlar.dll
+c:\Users\muaze\Desktop\C#101 Ödev 11 Metotlar\obj\Debug\net6.0\C#101 Ödev 11 Metotlar.pdb
+c:\Users\muaze\Desktop\C#101 Ödev 11 Metotlar\obj\Debug\net6.0\C#101 Ödev 11 Metotlar.genruntimeconfig.cache
+c:\Users\muaze\Desktop\C#101 Ödev 11 Metotlar\obj\Debug\net6.0\ref\C#101 Ödev 11 Metotlar.dll
